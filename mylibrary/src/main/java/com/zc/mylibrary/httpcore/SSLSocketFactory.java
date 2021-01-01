@@ -1,7 +1,8 @@
 package com.zc.mylibrary.httpcore;
 
 
-import com.qingguo.ebook.tools.Preconditions;
+
+import com.zc.mylibrary.tools.Preconditions;
 
 import java.security.SecureRandom;
 
